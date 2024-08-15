@@ -1,0 +1,6 @@
+{
+  "get": "swagger/users",
+  "status": 200,
+  "expect": "name"
+}
+

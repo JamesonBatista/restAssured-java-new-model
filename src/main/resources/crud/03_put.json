@@ -1,0 +1,10 @@
+{
+  "put": "swagger/users/{id}",
+  "status": 200,
+  "body": {
+    "nome": "faker.name",
+    "address":  "faker.address",
+    "email": "faker.email"
+  },
+  "expect": "nome"
+}

@@ -1,0 +1,4 @@
+{
+  "delete": "swagger/users/{id}",
+  "expect": "message"
+}
