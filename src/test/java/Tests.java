@@ -6,7 +6,6 @@ import org.junit.jupiter.api.TestMethodOrder;
 @TestMethodOrder(MethodOrderer.OrderAnnotation.class)
 public class Tests extends Request {
 
- // criar condition baseado no status
 
     @Test()
     public void crud_get() throws Exception {
